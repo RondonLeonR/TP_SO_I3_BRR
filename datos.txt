@@ -2,3 +2,5 @@ Agustin Rodriguez ip: 192.168.2.93
 vie, 07 de jun de 2019 10:28:11
 Nahuel borquez ip: 192.168.2.95
 vie, 07 de jun de 2019 10:48:57
+Rodolfo Rondon IP 192.168.2.131
+vie, 07 de jun de 2019 10:56:52
